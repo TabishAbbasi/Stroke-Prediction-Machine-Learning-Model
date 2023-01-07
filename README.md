@@ -1,5 +1,6 @@
 # Stroke-Prediction-Machine-Learning-Model
-A stroke prediction model, built using Jupyter Notebooks, pandas, matplotlib, numpy, and Scikit-learn.
+A stroke prediction model, built using Jupyter Notebooks, pandas, matplotlib, numpy, and Scikit-learn. The project is fully viewable by accessing the .ipynb file.
+
 ![1](https://user-images.githubusercontent.com/55116554/211140648-0d01c455-fad9-4664-b2ca-dbfd30f61801.PNG)
 ![2](https://user-images.githubusercontent.com/55116554/211140650-a41c2b4d-b498-4515-bc6a-29c83685c4f7.PNG)
 ![3](https://user-images.githubusercontent.com/55116554/211140666-97a8fa48-0fb2-4355-a814-6dfb0ce8f67f.PNG)
