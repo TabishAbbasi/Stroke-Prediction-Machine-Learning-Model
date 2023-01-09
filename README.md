@@ -1,5 +1,5 @@
 # Stroke-Prediction-Machine-Learning-Model
-A stroke prediction model, built using Jupyter Notebooks, pandas, matplotlib, numpy, and Scikit-learn. The project is fully viewable by accessing the .ipynb file. The dataset is first added to pandas from a csv file. It is then visualized using matplotlib to examine any patterns in the observations. A random forest classifier machine learning model provided by Scikit-learn is then trained on the observations.
+A stroke prediction model, built using Jupyter Notebooks, pandas, matplotlib, numpy, and Scikit-learn. The dataset was obtained from Kaggle. The project is fully viewable by accessing the .ipynb file. The dataset is first added to pandas from a csv file. It is then visualized using matplotlib to examine any patterns in the observations. A random forest classifier machine learning model provided by Scikit-learn is then trained on the observations.
 
 ![1](https://user-images.githubusercontent.com/55116554/211140648-0d01c455-fad9-4664-b2ca-dbfd30f61801.PNG)
 ![2](https://user-images.githubusercontent.com/55116554/211140650-a41c2b4d-b498-4515-bc6a-29c83685c4f7.PNG)
